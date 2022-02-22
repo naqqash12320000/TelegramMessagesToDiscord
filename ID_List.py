@@ -6,7 +6,7 @@ p = {  # names of peoples
 }
 
 tg_table = {
-    123456789:p[0] #CHANGE to your telegram user id
+    1554595397:p[0] #CHANGE to your telegram user id
 }
 
 
